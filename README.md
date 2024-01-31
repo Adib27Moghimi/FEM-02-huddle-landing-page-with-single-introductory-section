@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Linked solution URL here](https://your-solution-url.com)
-- Live Site URL: [Linked live site URL here](https://your-live-site-url.com)
+- Solution URL: [Linked solution URL here](https://www.frontendmentor.io/solutions/use-flexbox-and-pure-css-8a_UGEoqMh)
+- Live Site URL: [Linked live site URL here](https://adib27moghimi.github.io/FEM-02-huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
